@@ -1,0 +1,16 @@
+struct{
+	char[10] name;
+	int		age;
+	int		score;
+}student;
+
+int main(){
+	struct student stu;
+	int stu_age = 22;
+
+	stu.name = "ellise";
+	stu.age = stu_age;
+	stu.score = 99;
+
+	return 1;
+}

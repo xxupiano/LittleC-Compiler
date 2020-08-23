@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591367652 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\6_error\lex.cpp
+	"def.h"
+
+1591367095 c:\xuxin\documents\compiling principles\experiment\syntax analysis\6_error\def.h
+	<string>
+	<iostream>
+	<vector>
+	<unordered_map>
+	<regex>
+	<fstream>
+
+1591528630 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\6_error\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<sstream>
+	"def.h"
+
+1591528704 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\6_error\syn.cpp
+	"def.h"
+

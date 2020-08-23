@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1591008084 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\5_executable_statement\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	"def.h"
+
+1591011827 c:\xuxin\documents\compiling principles\experiment\syntax analysis\5_executable_statement\def.h
+	<string>
+	<iostream>
+	<vector>
+	<unordered_map>
+	<regex>
+	<fstream>
+
+1591081541 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\5_executable_statement\syn.cpp
+	"def.h"
+
+1591011796 source:c:\xuxin\documents\compiling principles\experiment\syntax analysis\5_executable_statement\lex.cpp
+	"def.h"
+

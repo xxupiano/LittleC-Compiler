@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589540968 source:c:\xuxin\documents\compiling principles\experiment\lexical analysis\2 identifier\identifier\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<regex>
+	<unordered_set>
+

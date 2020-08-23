@@ -1,0 +1,6 @@
+int main()
+{
+    
+    int 7a,8b;
+    return 0;
+}

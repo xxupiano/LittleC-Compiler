@@ -1,0 +1,9 @@
+start
+123
+7
+a b c /d
+ef
+jkt
+
+
+end

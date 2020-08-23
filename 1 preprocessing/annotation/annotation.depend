@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589301414 source:c:\xuxin\documents\compiling principles\experiment\lexical analysis\1preprocessing\annotation\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<vector>
+
+1589301414 source:c:\xuxin\documents\compiling principles\experiment\lexical analysis\1 preprocessing\annotation\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<vector>
+

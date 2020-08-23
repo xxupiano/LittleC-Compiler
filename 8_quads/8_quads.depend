@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1593271721 source:c:\xuxin\documents\compiling principles\experiment\semantic analysis\8_quads\lex.cpp
+	"def.h"
+
+1593272642 c:\xuxin\documents\compiling principles\experiment\semantic analysis\8_quads\def.h
+	<string>
+	<iostream>
+	<vector>
+	<unordered_map>
+	<regex>
+	<fstream>
+	<stack>
+	<iomanip>
+
+1593315721 source:c:\xuxin\documents\compiling principles\experiment\semantic analysis\8_quads\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"def.h"
+
+1593313235 source:c:\xuxin\documents\compiling principles\experiment\semantic analysis\8_quads\syn.cpp
+	"def.h"
+

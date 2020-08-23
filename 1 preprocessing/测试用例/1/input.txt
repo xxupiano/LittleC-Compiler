@@ -1,0 +1,7 @@
+start
+abc/*def
+ghi*/
+lmn//opq
+rst/uvw
+x*y*/z
+end

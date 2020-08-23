@@ -1,0 +1,11 @@
+typedef struct _NFAStateStack
+{
+	NFAState* buffer[MAX_STACK_LENGTH];
+	int top;		
+}NFAStateStack;
+
+
+void InitNFAStateStack(NFAStateStack* pS);
+void PushNFAState(NFAStateStack* pS, NFAState* Elem);
+NFAState* PopNFAState(NFAStateStack* pS);
+int NFAStateStackEmpty(NFAStateStack* pS);

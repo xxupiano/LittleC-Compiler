@@ -1,0 +1,6 @@
+start
+abc
+lmn
+rst/uvw
+x*y*/z
+end

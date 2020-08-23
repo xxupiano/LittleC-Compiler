@@ -1,0 +1,10 @@
+start
+123//456
+7//8/*9//
+a b c /d
+ef/*ghi*/
+jk/*lm/*n
+opq*rs*/t
+
+
+end
